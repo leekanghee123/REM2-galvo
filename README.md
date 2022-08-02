@@ -1,3 +1,3 @@
 # amazing
 ## rem
-### galvo
+### galvo motor
